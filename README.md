@@ -1,4 +1,4 @@
-# volmakerv2
+# volmaker
 
 A personal research project for building and evaluating an automated trading system on a perpetual futures market.
 
